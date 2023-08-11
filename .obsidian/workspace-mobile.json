@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "8ab2113c1b8e3d70",
+    "type": "split",
+    "children": [
+      {
+        "id": "c396a39e035e9264",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3866d88adcd29c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34c7bb3382cbdf94",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c9efc60ea07a716d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d1b9e6a6502ca9bf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b1cbaae26472f8c4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b0d9d55016a9b49a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "71e79c73b6f5df8a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "617c93fedd7ee775",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian学习笔记.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8f23ca6dbbce26e7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Obsidian学习笔记.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5a2aa47abea25be6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Obsidian学习笔记.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3866d88adcd29c4e",
+  "lastOpenFiles": [
+    "收集箱/未命名.md",
+    "attachment/Pasted image 20230811011318.png",
+    "日记/2023-08-11.md",
+    "Obsidian学习笔记.md",
+    "收集箱/嵌入式学习.md",
+    "模板",
+    "日记",
+    "收集箱",
+    "attachment"
+  ]
+}
