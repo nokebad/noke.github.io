@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian学习笔记",
-      "path": "Obsidian学习笔记.md"
+      "basename": "《呼啸山庄》",
+      "path": "读书/《呼啸山庄》.md"
     },
     {
       "basename": "未命名",
-      "path": "收集箱/未命名.md"
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "Pasted image 20230811011318",
+      "path": "attachment/Pasted image 20230811011318.png"
+    },
+    {
+      "basename": "2023-08-11",
+      "path": "日记/2023-08-11.md"
+    },
+    {
+      "basename": "书单索引",
+      "path": "读书/书单索引.md"
+    },
+    {
+      "basename": "Obsidian学习笔记",
+      "path": "Obsidian学习笔记.md"
     },
     {
       "basename": "模拟电子技术",
@@ -19,10 +35,6 @@
     {
       "basename": "嵌入式学习",
       "path": "收集箱/嵌入式学习.md"
-    },
-    {
-      "basename": "2023-08-11",
-      "path": "日记/2023-08-11.md"
     }
   ],
   "omittedPaths": [],

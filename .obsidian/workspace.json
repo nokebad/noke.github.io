@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "ecbaaf23528d9de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书/《呼啸山庄》.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae4fa9cfe7855bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书/《呼啸山庄》.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "753d68ce05d1fd0a",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian学习笔记.md",
+                "file": "读书/《呼啸山庄》.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian学习笔记.md",
+                "file": "读书/《呼啸山庄》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian学习笔记.md"
+                "file": "读书/《呼啸山庄》.md"
               }
             }
           },
@@ -187,18 +212,20 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d2b5044eaaedbf80",
+  "active": "ae4fa9cfe7855bef",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-11 16.35.05.excalidraw.md",
-    "Obsidian学习笔记.md",
-    "Excalidraw",
+    "未命名.canvas",
+    "日记/2023-08-11.md",
     "收集箱/未命名.md",
+    "读书/书单索引.md",
+    "读书/《呼啸山庄》.md",
+    "Obsidian学习笔记.md",
+    "Excalidraw/Drawing 2023-08-11 16.35.05.excalidraw.md",
+    "Excalidraw",
     "收集箱/模拟电子技术.md",
     "收集箱/Stm32学习.md",
     "收集箱/嵌入式学习.md",
     "读书",
-    "未命名.canvas",
-    "日记/2023-08-11.md",
     "新建 文本文档.gitignore",
     "新建 文本文档.txt",
     "新建 文本文档.git",

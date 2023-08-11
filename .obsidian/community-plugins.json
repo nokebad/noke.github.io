@@ -1,20 +1,3 @@
 [
-  "remotely-save",
-  "obsidian-git",
-  "file-explorer-note-count",
-  "recent-files-obsidian",
-  "obsidian-pandoc",
-  "obsidian-minimal-settings",
-  "obsidian-mind-map",
-  "calendar",
-  "obsidian-tasks-plugin",
-  "obsidian-memos",
-  "obsidian-excalidraw-plugin",
-  "cmenu-plugin",
-  "quick-explorer",
-  "dataview",
-  "obsidian-hover-editor",
-  "obsidian-journey-plugin",
-  "search-on-internet",
-  "canvas-presentation"
+  "remotely-save"
 ]
