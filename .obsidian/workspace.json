@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian学习笔记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "753d68ce05d1fd0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/索引/书单索引.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecbaaf23528d9de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "阅读/读书笔记/《呼啸山庄》.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "649587397f6ee8b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian学习笔记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,12 +73,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "aa9c4cd5f35e6a5f",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "7bf33a49be990f1e",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian学习笔记.md",
+                "file": "阅读/读书笔记/《呼啸山庄》.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian学习笔记.md",
+                "file": "阅读/读书笔记/《呼啸山庄》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian学习笔记.md"
+                "file": "阅读/读书笔记/《呼啸山庄》.md"
               }
             }
           }
@@ -213,24 +181,27 @@
       "obsidian-journey-plugin:Find Journey": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "obsidian-booknote-plugin:书库": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9efabd6d36c1e634",
+  "active": "d2b5044eaaedbf80",
   "lastOpenFiles": [
-    "阅读/阅读材料/呼啸山庄_[英]艾米莉·勃朗特；方平译_zhelper-search.epub",
+    "阅读/读书笔记/《挪威的森林》.md",
+    "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
+    "阅读/索引/书单索引.md",
+    "Obsidian学习笔记.md",
     "阅读/读书笔记/《呼啸山庄》.md",
+    "Day Planners/Day Planner-20230813.md",
+    "阅读/阅读材料/呼啸山庄_[英]艾米莉·勃朗特；方平译_zhelper-search.epub",
     "阅读/索引",
     "阅读/阅读材料",
     "阅读/读书笔记",
-    "阅读/读书笔记/《挪威的森林》.md",
-    "Obsidian学习笔记.md",
     "attachment/Pasted image 20230812214930.png",
     "attachment/Pasted image 20230811011318.png",
     "演示.md",
     "收集箱/嵌入式学习.md",
     "收集箱/Stm32学习.md",
-    "阅读/索引/书单索引.md",
     "Day Planners/Day Planner-20230812.md",
     "Day Planners",
     "日记/2023-08-11.md",
@@ -247,8 +218,6 @@
     "阅读",
     "新建 文本文档.gitignore",
     "新建 文本文档.txt",
-    "新建 文本文档.git",
-    "模板",
     "未命名/未命名.md"
   ]
 }
