@@ -1,3 +1,4 @@
 {
-  "folder": "模板"
+  "folder": "模板",
+  "dateFormat": "YYYY-MM-DD dddd"
 }

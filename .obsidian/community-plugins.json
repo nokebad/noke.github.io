@@ -1,3 +1,13 @@
 [
-  "remotely-save"
+  "remotely-save",
+  "calendar",
+  "canvas-presentation",
+  "cmenu-plugin",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "file-explorer-note-count",
+  "obsidian-journey-plugin",
+  "obsidian-hover-editor",
+  "obsidian-mind-map",
+  "obsidian-minimal-settings"
 ]
