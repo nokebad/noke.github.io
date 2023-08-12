@@ -11,8 +11,13 @@
             "id": "bfab3b2a7876dcca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "读书/书单索引.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "读书/书单索引.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "读书/书单索引.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "读书/书单索引.md"
+          }
         }
       }
     ],
@@ -115,9 +124,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false,
       "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -129,11 +135,14 @@
   },
   "active": "bfab3b2a7876dcca",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230812.md",
+    "Day Planners",
+    "读书/《呼啸山庄》.md",
+    "模板",
     "未命名 1.canvas",
     "Obsidian学习笔记.md",
     "读书/书单索引.md",
     "未命名.canvas",
-    "读书/《呼啸山庄》.md",
     "收集箱/嵌入式学习.md",
     "attachment/Pasted image 20230811011318.png",
     "收集箱/未命名.md",
@@ -141,7 +150,6 @@
     "收集箱/Stm32学习.md",
     "日记/2023-08-11.md",
     "读书",
-    "模板",
     "日记",
     "收集箱",
     "attachment"

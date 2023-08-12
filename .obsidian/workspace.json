@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ecbaaf23528d9de2",
+            "id": "753d68ce05d1fd0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/书单索引.md",
+                "file": "阅读/索引/书单索引.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,20 @@
             }
           },
           {
-            "id": "753d68ce05d1fd0a",
+            "id": "ecbaaf23528d9de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "阅读/读书笔记/《呼啸山庄》.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "649587397f6ee8b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#·封面",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,10 +134,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书/书单索引.md",
+                "file": "Obsidian学习笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "15f7e67279aa9795",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -139,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书/书单索引.md",
+                "file": "Obsidian学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,20 +188,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/书单索引.md"
+                "file": "Obsidian学习笔记.md"
               }
-            }
-          },
-          {
-            "id": "876bf599fda69c6e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -197,37 +210,45 @@
       "command-palette:打开命令面板": false,
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "obsidian-journey-plugin:Find Journey": false
+      "obsidian-journey-plugin:Find Journey": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "ecbaaf23528d9de2",
+  "active": "9efabd6d36c1e634",
   "lastOpenFiles": [
-    "读书/《呼啸山庄》.md",
-    "读书/书单索引.md",
+    "阅读/阅读材料/呼啸山庄_[英]艾米莉·勃朗特；方平译_zhelper-search.epub",
+    "阅读/读书笔记/《呼啸山庄》.md",
+    "阅读/索引",
+    "阅读/阅读材料",
+    "阅读/读书笔记",
+    "阅读/读书笔记/《挪威的森林》.md",
     "Obsidian学习笔记.md",
+    "attachment/Pasted image 20230812214930.png",
+    "attachment/Pasted image 20230811011318.png",
+    "演示.md",
+    "收集箱/嵌入式学习.md",
+    "收集箱/Stm32学习.md",
+    "阅读/索引/书单索引.md",
+    "Day Planners/Day Planner-20230812.md",
+    "Day Planners",
     "日记/2023-08-11.md",
     "[也许是B站最全面的Obsidian公开课.md",
     "也许是B站最全面的Obsidian公开课.md",
     "[Cmd.md",
     "未命名 1.canvas",
     "收集箱/模拟电子技术.md",
-    "收集箱/Stm32学习.md",
-    "收集箱/嵌入式学习.md",
     "华为开发.md",
     "未命名.canvas",
     "收集箱/未命名.md",
     "Excalidraw/Drawing 2023-08-11 16.35.05.excalidraw.md",
     "Excalidraw",
-    "读书",
+    "阅读",
     "新建 文本文档.gitignore",
     "新建 文本文档.txt",
     "新建 文本文档.git",
     "模板",
-    "日记",
-    "attachment/Pasted image 20230811011318.png",
-    "未命名 2",
-    "未命名 1",
-    "attachment",
     "未命名/未命名.md"
   ]
 }
