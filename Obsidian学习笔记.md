@@ -115,6 +115,12 @@ class Biology,Chemistry internal-link
 
 # 第六课
 ## 搜索的技巧
+- 搜索：针对**内容**的查找
+- 查询：针对**属性**的展示
+## 在Obsidian中的搜索
+- 快捷键
+	- 搜索当前文档：Ctrl+f
+	- 搜索整个
 
 
 

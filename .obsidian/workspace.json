@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md",
+                "file": "Obsidian学习笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,6 +73,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f9e2361966b27b8e",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ]
       }
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md",
+                "file": "Obsidian学习笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md",
+                "file": "Obsidian学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md"
+                "file": "Obsidian学习笔记.md"
               }
             }
           }
@@ -173,14 +181,16 @@
       "obsidian-journey-plugin:Find Journey": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
   "active": "94c0efd09c2d71e4",
   "lastOpenFiles": [
+    "狂人日记.md",
+    "阅读/读书笔记/《呼啸山庄》.md",
     "Pasted image 20230813232019.png",
     "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
-    "阅读/读书笔记/《呼啸山庄》.md",
     "attachment/Pasted image 20230812214930.png",
     "Obsidian学习笔记.md",
     "阅读/读书笔记/《挪威的森林》.md",
