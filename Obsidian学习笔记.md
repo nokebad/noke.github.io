@@ -69,7 +69,7 @@
 - 分割线
 ---
 
-- 链接[也许是B站最好的Obsidian新手教程！爆肝30天，一站式入门双向链接笔记软件_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18a411r7mt/?spm_id_from=333.337.search-card.all.click&vd_source=8333825fa7abe6ed50c46c87d613ac03)
+- 链接[obsidian学习笔记](https://www.bilibili.com/video/BV1H44y1n71k?t=0.0)
 ```c
 ```
 - 任务列表
@@ -103,7 +103,7 @@ class Biology,Chemistry internal-link
 ### 意义
 - 结构相同
 - 内容不同
-### 高重复性笔记
+### 高重复性笔记:
 - 读书笔记
 - 会议记录
 - 日记

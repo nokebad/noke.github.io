@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ae1e0bc728848ec4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3b8c15e1b8da11c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "e7853e0fa82f263b",
         "type": "tabs",
         "children": [
@@ -29,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md",
+                "file": "Obsidian学习笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
+                "file": "Obsidian学习笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
+                "file": "Obsidian学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf"
+                "file": "Obsidian学习笔记.md"
               }
             }
           }
@@ -192,7 +176,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "c3b8c15e1b8da11c",
+  "active": "9efabd6d36c1e634",
   "lastOpenFiles": [
     "阅读/读书笔记/《呼啸山庄》.md",
     "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
