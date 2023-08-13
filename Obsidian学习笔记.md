@@ -113,6 +113,8 @@ class Biology,Chemistry internal-link
 - 软件本身的功能最重要
 - 不要改变软件本身的定位
 
+# 第六课
+## 搜索的技巧
 
 
 
