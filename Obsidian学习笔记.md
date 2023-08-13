@@ -107,6 +107,11 @@ class Biology,Chemistry internal-link
 - 读书笔记
 - 会议记录
 - 日记
+# 第五课
+## 插件
+
+- 软件本身的功能最重要
+- 不要改变软件本身的定位
 
 
 
