@@ -181,8 +181,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +245,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": false
               }
             }
@@ -287,11 +286,11 @@
   },
   "active": "9984b57a3735e7bc",
   "lastOpenFiles": [
+    "收集箱/Obsidian学习笔记.md",
     "阅读/读书笔记/《呼啸山庄》.md",
     "阅读/读书笔记/《挪威的森林》.md",
     "阅读/索引/书单索引.md",
     "模板/读书笔记模板.md",
-    "收集箱/Obsidian学习笔记.md",
     "数学笔记/线性代数.md",
     "编程语言学习/c语言.md",
     "编程语言学习",
