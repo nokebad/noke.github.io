@@ -14,31 +14,120 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian学习笔记.md",
+                "file": "收集箱/Obsidian学习笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "d4f65ddc375cb290",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "580d77756395e479",
+            "id": "666e7ffc899ecdbc",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "https://www.zhihu.com/search?q=Obsidian DataView&type=content&sort=upvoted_count"
+                "file": "收集箱/嵌入式学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ebfc625c00e104c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收集箱/嵌入式学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "226a462786784e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收集箱/嵌入式学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b40e34c012e3bb5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收集箱/数据结构与算法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d09e9c4fbdfcd0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收集箱/计算机网络原理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4468dff5eb164cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收集箱/单片机原理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeb68e37a3a4713b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收集箱/操作系统原理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a01ad58c49b4c195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模板/读书笔记模板.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -91,16 +180,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f9e2361966b27b8e",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,6 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "模板/读书笔记模板.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +216,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "36a0ea27574d3985",
@@ -145,6 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "模板/读书笔记模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +247,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -171,16 +256,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "模板/读书笔记模板.md"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,49 +281,55 @@
       "obsidian-journey-plugin:Find Journey": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "580d77756395e479",
+  "active": "9984b57a3735e7bc",
   "lastOpenFiles": [
-    "Obsidian学习笔记.md",
-    "[(27.md",
-    "Pasted image 20230814100443.png",
-    "Pasted image 20230814100359.png",
-    "Day Planners/Day Planner-20230814.md",
-    "狂人日记.md",
     "阅读/读书笔记/《呼啸山庄》.md",
-    "Pasted image 20230813232019.png",
-    "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
-    "attachment/Pasted image 20230812214930.png",
     "阅读/读书笔记/《挪威的森林》.md",
     "阅读/索引/书单索引.md",
+    "模板/读书笔记模板.md",
+    "收集箱/Obsidian学习笔记.md",
+    "数学笔记/线性代数.md",
+    "编程语言学习/c语言.md",
+    "编程语言学习",
+    "编程语言学习/c++语言.md",
+    "狂人日记.md",
+    "收集箱/单片机原理.md",
+    "收集箱/操作系统原理.md",
+    "收集箱/嵌入式学习.md",
+    "收集箱/linux系统.md",
+    "收集箱/计算机网络原理.md",
+    "收集箱/数据结构与算法.md",
+    "数据结构与算法",
+    "收集箱/Stm32学习.md",
+    "Day Planners/Day Planner-20230814.md",
     "Day Planners/Day Planner-20230813.md",
+    "收集箱/模拟电子技术.md",
+    "数学笔记",
+    "未命名.canvas",
+    "Day Planners/Day Planner-20230812.md",
+    "[(27.md",
+    "attachment/Pasted image 20230812214930 1.png",
+    "读书/《挪威的森林》.md",
+    "读书",
+    "attachment/Pasted image 20230814100443.png",
+    "attachment/Pasted image 20230814100359.png",
+    "attachment/Pasted image 20230813232019.png",
+    "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
+    "attachment/Pasted image 20230812214930.png",
     "阅读/阅读材料/呼啸山庄_[英]艾米莉·勃朗特；方平译_zhelper-search.epub",
     "阅读/索引",
     "阅读/阅读材料",
     "阅读/读书笔记",
     "attachment/Pasted image 20230811011318.png",
     "演示.md",
-    "收集箱/嵌入式学习.md",
-    "收集箱/Stm32学习.md",
-    "Day Planners/Day Planner-20230812.md",
     "Day Planners",
     "日记/2023-08-11.md",
     "[也许是B站最全面的Obsidian公开课.md",
     "也许是B站最全面的Obsidian公开课.md",
-    "[Cmd.md",
-    "未命名 1.canvas",
-    "收集箱/模拟电子技术.md",
-    "华为开发.md",
-    "未命名.canvas",
-    "收集箱/未命名.md",
-    "Excalidraw/Drawing 2023-08-11 16.35.05.excalidraw.md",
-    "Excalidraw",
-    "阅读",
-    "新建 文本文档.gitignore",
-    "新建 文本文档.txt",
-    "未命名/未命名.md"
+    "未命名 1.canvas"
   ]
 }

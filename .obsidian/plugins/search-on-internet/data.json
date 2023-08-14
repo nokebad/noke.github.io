@@ -2,8 +2,8 @@
   "searches": [
     {
       "tags": [],
-      "query": "https://cn.bing.com/?mkt=zh-cn",
-      "name": "Bing",
+      "query": "https://www.baidu.com/s?ie=UTF-8&wd={{title}}",
+      "name": "baidu",
       "encode": true
     },
     {
@@ -13,9 +13,9 @@
       "encode": false
     },
     {
-      "name": "",
-      "query": "",
       "tags": [],
+      "query": "",
+      "name": "",
       "encode": false
     }
   ],

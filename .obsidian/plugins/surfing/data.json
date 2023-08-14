@@ -19,7 +19,7 @@
   "highlightInSameTab": false,
   "openInSameTab": false,
   "showRefreshButton": false,
-  "openInObsidianWeb": false,
+  "openInObsidianWeb": true,
   "useCustomIcons": false,
   "useWebview": false,
   "useIconList": true,
@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "cf7602140af86b9f",
+      "parent": 0,
+      "droppable": true,
+      "text": "Obsidian DataView - 搜索结果 - 知乎",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

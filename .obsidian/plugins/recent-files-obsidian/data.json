@@ -2,27 +2,15 @@
   "recentFiles": [
     {
       "basename": "Obsidian学习笔记",
-      "path": "Obsidian学习笔记.md"
+      "path": "收集箱/Obsidian学习笔记.md"
     },
     {
-      "basename": "[(27",
-      "path": "[(27.md"
-    },
-    {
-      "basename": "狂人日记",
-      "path": "狂人日记.md"
+      "basename": "读书笔记模板",
+      "path": "模板/读书笔记模板.md"
     },
     {
       "basename": "《呼啸山庄》",
       "path": "阅读/读书笔记/《呼啸山庄》.md"
-    },
-    {
-      "basename": "呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search",
-      "path": "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf"
-    },
-    {
-      "basename": "Pasted image 20230812214930",
-      "path": "attachment/Pasted image 20230812214930.png"
     },
     {
       "basename": "《挪威的森林》",
@@ -33,24 +21,68 @@
       "path": "阅读/索引/书单索引.md"
     },
     {
+      "basename": "线性代数",
+      "path": "数学笔记/线性代数.md"
+    },
+    {
+      "basename": "c语言",
+      "path": "编程语言学习/c语言.md"
+    },
+    {
+      "basename": "c++语言",
+      "path": "编程语言学习/c++语言.md"
+    },
+    {
+      "basename": "狂人日记",
+      "path": "狂人日记.md"
+    },
+    {
+      "basename": "单片机原理",
+      "path": "收集箱/单片机原理.md"
+    },
+    {
+      "basename": "操作系统原理",
+      "path": "收集箱/操作系统原理.md"
+    },
+    {
       "basename": "嵌入式学习",
       "path": "收集箱/嵌入式学习.md"
+    },
+    {
+      "basename": "linux系统",
+      "path": "收集箱/linux系统.md"
+    },
+    {
+      "basename": "计算机网络原理",
+      "path": "收集箱/计算机网络原理.md"
+    },
+    {
+      "basename": "数据结构与算法",
+      "path": "收集箱/数据结构与算法.md"
     },
     {
       "basename": "Stm32学习",
       "path": "收集箱/Stm32学习.md"
     },
     {
-      "basename": "Day Planner-20230812",
-      "path": "Day Planners/Day Planner-20230812.md"
+      "basename": "模拟电子技术",
+      "path": "收集箱/模拟电子技术.md"
+    },
+    {
+      "basename": "Pasted image 20230812214930 1",
+      "path": "attachment/Pasted image 20230812214930 1.png"
+    },
+    {
+      "basename": "呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search",
+      "path": "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf"
+    },
+    {
+      "basename": "Pasted image 20230812214930",
+      "path": "attachment/Pasted image 20230812214930.png"
     },
     {
       "basename": "2023-08-11",
       "path": "日记/2023-08-11.md"
-    },
-    {
-      "basename": "模拟电子技术",
-      "path": "收集箱/模拟电子技术.md"
     }
   ],
   "omittedPaths": [],
