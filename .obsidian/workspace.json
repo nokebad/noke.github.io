@@ -8,100 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94c0efd09c2d71e4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "收集箱/Obsidian学习笔记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "666e7ffc899ecdbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工科笔记/嵌入式学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ebfc625c00e104c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工科笔记/嵌入式学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "226a462786784e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工科笔记/嵌入式学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b40e34c012e3bb5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工科笔记/数据结构与算法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d09e9c4fbdfcd0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工科笔记/计算机网络原理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4468dff5eb164cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工科笔记/单片机原理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aeb68e37a3a4713b",
+            "id": "bf1daedc58798ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -113,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +73,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ce336b29dfab915a",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -268,16 +183,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-weread-plugin:Weread": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-booknote-plugin:书库": false
     }
   },
-  "active": "aeb68e37a3a4713b",
+  "active": "bf1daedc58798ed5",
   "lastOpenFiles": [
-    "阅读/读书笔记/《挪威的森林》.md",
-    "阅读/读书笔记/《呼啸山庄》.md",
-    "收集箱/Obsidian学习笔记.md",
-    "工科笔记",
     "阅读/索引/书单索引.md",
+    "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
+    "收集箱/Obsidian学习笔记.md",
+    "阅读/读书笔记/《呼啸山庄》.md",
+    "阅读/读书笔记/《挪威的森林》.md",
+    "工科笔记",
     "模板/读书笔记模板.md",
     "工科笔记/数学笔记/线性代数.md",
     "工科笔记/编程语言学习/c语言.md",
@@ -305,7 +222,6 @@
     "attachment/Pasted image 20230814100443.png",
     "attachment/Pasted image 20230814100359.png",
     "attachment/Pasted image 20230813232019.png",
-    "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
     "attachment/Pasted image 20230812214930.png",
     "阅读/阅读材料/呼啸山庄_[英]艾米莉·勃朗特；方平译_zhelper-search.epub",
     "阅读/索引",
