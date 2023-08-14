@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集箱/嵌入式学习.md",
+                "file": "工科笔记/嵌入式学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集箱/嵌入式学习.md",
+                "file": "工科笔记/嵌入式学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集箱/嵌入式学习.md",
+                "file": "工科笔记/嵌入式学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集箱/数据结构与算法.md",
+                "file": "工科笔记/数据结构与算法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集箱/计算机网络原理.md",
+                "file": "工科笔记/计算机网络原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集箱/单片机原理.md",
+                "file": "工科笔记/单片机原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,20 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收集箱/操作系统原理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a01ad58c49b4c195",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模板/读书笔记模板.md",
+                "file": "阅读/读书笔记/《呼啸山庄》.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -172,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#书籍",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/读书笔记模板.md",
+                "file": "阅读/读书笔记/《呼啸山庄》.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/读书笔记模板.md",
+                "file": "阅读/读书笔记/《呼啸山庄》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/读书笔记模板.md"
+                "file": "阅读/读书笔记/《呼啸山庄》.md"
               }
             }
           }
@@ -284,30 +271,31 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9984b57a3735e7bc",
+  "active": "aeb68e37a3a4713b",
   "lastOpenFiles": [
-    "收集箱/Obsidian学习笔记.md",
-    "阅读/读书笔记/《呼啸山庄》.md",
     "阅读/读书笔记/《挪威的森林》.md",
+    "阅读/读书笔记/《呼啸山庄》.md",
+    "收集箱/Obsidian学习笔记.md",
+    "工科笔记",
     "阅读/索引/书单索引.md",
     "模板/读书笔记模板.md",
-    "数学笔记/线性代数.md",
-    "编程语言学习/c语言.md",
-    "编程语言学习",
-    "编程语言学习/c++语言.md",
+    "工科笔记/数学笔记/线性代数.md",
+    "工科笔记/编程语言学习/c语言.md",
+    "工科笔记/编程语言学习",
+    "工科笔记/编程语言学习/c++语言.md",
     "狂人日记.md",
-    "收集箱/单片机原理.md",
-    "收集箱/操作系统原理.md",
-    "收集箱/嵌入式学习.md",
-    "收集箱/linux系统.md",
-    "收集箱/计算机网络原理.md",
-    "收集箱/数据结构与算法.md",
+    "工科笔记/单片机原理.md",
+    "工科笔记/操作系统原理.md",
+    "工科笔记/嵌入式学习.md",
+    "工科笔记/linux系统.md",
+    "工科笔记/计算机网络原理.md",
+    "工科笔记/数据结构与算法.md",
     "数据结构与算法",
-    "收集箱/Stm32学习.md",
+    "工科笔记/Stm32学习.md",
     "Day Planners/Day Planner-20230814.md",
     "Day Planners/Day Planner-20230813.md",
-    "收集箱/模拟电子技术.md",
-    "数学笔记",
+    "工科笔记/模拟电子技术.md",
+    "工科笔记/数学笔记",
     "未命名.canvas",
     "Day Planners/Day Planner-20230812.md",
     "[(27.md",
@@ -325,10 +313,8 @@
     "阅读/读书笔记",
     "attachment/Pasted image 20230811011318.png",
     "演示.md",
-    "Day Planners",
     "日记/2023-08-11.md",
     "[也许是B站最全面的Obsidian公开课.md",
-    "也许是B站最全面的Obsidian公开课.md",
     "未命名 1.canvas"
   ]
 }
