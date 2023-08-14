@@ -1,0 +1,23 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://cn.bing.com/?mkt=zh-cn",
+      "name": "Bing",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://en.wikipedia.org/wiki/Special:Search/{{query}}",
+      "name": "Wikipedia",
+      "encode": false
+    },
+    {
+      "name": "",
+      "query": "",
+      "tags": [],
+      "encode": false
+    }
+  ],
+  "useIframe": true
+}

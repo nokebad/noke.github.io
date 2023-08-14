@@ -120,8 +120,27 @@ class Biology,Chemistry internal-link
 ## 在Obsidian中的搜索
 - 快捷键
 	- 搜索当前文档：Ctrl+f
-	- 搜索整个
-
+	- 搜索整个资料库：Ctrl+Shift+f
+## 搜索技巧
+- 直接搜索关键词
+- 搜索包含多个关键的文档（空格间隔）
+- 搜索包含某一个关键词的文档（OR）
+- 指定搜索范围
+	- 搜索文件名file：word
+	- 搜索文本内容content：word
+	- 搜索标签tag:#tag；word
+	- 搜索同一行中的多个关键词line:word1 word2
+	- 搜索同一章节中的多个关键词section：word1 word2
+	- 搜索同一段落（块）中的多个关键词block:word1 word2
+- 搜索任务task:""
+# 第七课
+## dataview学习
+- 建立数据库
+- 生成目录
+- ![[Pasted image 20230814100359.png]]
+- ![[Pasted image 20230814100443.png]]
+- [dataview学习](https://www.zhihu.com/search?q=Obsidian%20DataView&type=content&sort=upvoted_count)
+- 
 
 
 

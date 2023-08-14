@@ -10,6 +10,7 @@
           {
             "id": "94c0efd09c2d71e4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,23 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "d4f65ddc375cb290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "580d77756395e479",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.zhihu.com/search?q=Obsidian DataView&type=content&sort=upvoted_count"
               }
             }
           }
@@ -65,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#·封面",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian学习笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian学习笔记.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -185,14 +199,18 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "94c0efd09c2d71e4",
+  "active": "580d77756395e479",
   "lastOpenFiles": [
+    "Obsidian学习笔记.md",
+    "[(27.md",
+    "Pasted image 20230814100443.png",
+    "Pasted image 20230814100359.png",
+    "Day Planners/Day Planner-20230814.md",
     "狂人日记.md",
     "阅读/读书笔记/《呼啸山庄》.md",
     "Pasted image 20230813232019.png",
     "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
     "attachment/Pasted image 20230812214930.png",
-    "Obsidian学习笔记.md",
     "阅读/读书笔记/《挪威的森林》.md",
     "阅读/索引/书单索引.md",
     "Day Planners/Day Planner-20230813.md",
