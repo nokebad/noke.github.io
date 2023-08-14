@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e7853e0fa82f263b",
+        "id": "5ead5fbffb55f455",
         "type": "tabs",
         "children": [
           {
-            "id": "bf1daedc58798ed5",
+            "id": "0435c10995f02235",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工科笔记/嵌入式学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "79a0203fdebe00c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md",
+                "file": "工科笔记/模拟电子技术.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md",
+                "file": "工科笔记/模拟电子技术.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md",
+                "file": "工科笔记/模拟电子技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读/读书笔记/《呼啸山庄》.md"
+                "file": "工科笔记/模拟电子技术.md"
               }
             }
           }
@@ -167,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,27 +199,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-weread-plugin:Weread": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-booknote-plugin:书库": false
+      "obsidian-booknote-plugin:书库": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "bf1daedc58798ed5",
+  "active": "79a0203fdebe00c9",
   "lastOpenFiles": [
+    "读书",
+    "工科笔记/数学笔记/高等数学.md",
+    "工科笔记/未命名.md",
+    "工科笔记/编程语言学习/c++语言.md",
+    "工科笔记/嵌入式学习.md",
+    "工科笔记/编程语言学习/c语言.md",
     "阅读/索引/书单索引.md",
+    "阅读/读书笔记/《挪威的森林》.md",
+    "阅读/读书笔记/《呼啸山庄》.md",
+    "阅读/作者/爱米丽.勃朗特.md",
+    "阅读/作者/未命名",
+    "阅读/作者",
+    "模板/读书笔记模板.md",
     "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
     "收集箱/Obsidian学习笔记.md",
-    "阅读/读书笔记/《呼啸山庄》.md",
-    "阅读/读书笔记/《挪威的森林》.md",
     "工科笔记",
-    "模板/读书笔记模板.md",
     "工科笔记/数学笔记/线性代数.md",
-    "工科笔记/编程语言学习/c语言.md",
     "工科笔记/编程语言学习",
-    "工科笔记/编程语言学习/c++语言.md",
     "狂人日记.md",
     "工科笔记/单片机原理.md",
     "工科笔记/操作系统原理.md",
-    "工科笔记/嵌入式学习.md",
     "工科笔记/linux系统.md",
     "工科笔记/计算机网络原理.md",
     "工科笔记/数据结构与算法.md",
@@ -218,19 +240,13 @@
     "[(27.md",
     "attachment/Pasted image 20230812214930 1.png",
     "读书/《挪威的森林》.md",
-    "读书",
     "attachment/Pasted image 20230814100443.png",
     "attachment/Pasted image 20230814100359.png",
     "attachment/Pasted image 20230813232019.png",
     "attachment/Pasted image 20230812214930.png",
     "阅读/阅读材料/呼啸山庄_[英]艾米莉·勃朗特；方平译_zhelper-search.epub",
     "阅读/索引",
-    "阅读/阅读材料",
-    "阅读/读书笔记",
     "attachment/Pasted image 20230811011318.png",
-    "演示.md",
-    "日记/2023-08-11.md",
-    "[也许是B站最全面的Obsidian公开课.md",
     "未命名 1.canvas"
   ]
 }
