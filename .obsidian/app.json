@@ -1,3 +1,4 @@
 {
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showLineNumber": true
 }

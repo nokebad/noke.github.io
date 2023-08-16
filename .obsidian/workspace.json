@@ -4,39 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "5ead5fbffb55f455",
+        "id": "bb2a03a4b17b5188",
         "type": "tabs",
         "children": [
           {
-            "id": "0435c10995f02235",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工科笔记/嵌入式学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "79a0203fdebe00c9",
+            "id": "6d7683d1c862a0b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工科笔记/模拟电子技术.md",
+                "file": "工科笔记/数学笔记/高等数学.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "a4e8f1e6a591b71d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78ea94bf7dc5844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工科笔记/嵌入式学习/底层开发/可运行系统/Linux内核.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工科笔记/模拟电子技术.md",
+                "file": "工科笔记/数学笔记/高等数学.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工科笔记/模拟电子技术.md",
+                "file": "工科笔记/数学笔记/高等数学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工科笔记/模拟电子技术.md"
+                "file": "工科笔记/数学笔记/高等数学.md"
               }
             }
           }
@@ -194,58 +197,54 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "obsidian-journey-plugin:Find Journey": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-weread-plugin:Weread": false,
-      "obsidian-booknote-plugin:书库": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "79a0203fdebe00c9",
+  "active": "9efabd6d36c1e634",
   "lastOpenFiles": [
-    "读书",
-    "工科笔记/数学笔记/高等数学.md",
-    "工科笔记/未命名.md",
-    "工科笔记/编程语言学习/c++语言.md",
-    "工科笔记/嵌入式学习.md",
-    "工科笔记/编程语言学习/c语言.md",
-    "阅读/索引/书单索引.md",
-    "阅读/读书笔记/《挪威的森林》.md",
-    "阅读/读书笔记/《呼啸山庄》.md",
-    "阅读/作者/爱米丽.勃朗特.md",
-    "阅读/作者/未命名",
-    "阅读/作者",
-    "模板/读书笔记模板.md",
-    "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
-    "收集箱/Obsidian学习笔记.md",
-    "工科笔记",
     "工科笔记/数学笔记/线性代数.md",
-    "工科笔记/编程语言学习",
-    "狂人日记.md",
-    "工科笔记/单片机原理.md",
-    "工科笔记/操作系统原理.md",
-    "工科笔记/linux系统.md",
-    "工科笔记/计算机网络原理.md",
-    "工科笔记/数据结构与算法.md",
-    "数据结构与算法",
-    "工科笔记/Stm32学习.md",
-    "Day Planners/Day Planner-20230814.md",
-    "Day Planners/Day Planner-20230813.md",
-    "工科笔记/模拟电子技术.md",
-    "工科笔记/数学笔记",
-    "未命名.canvas",
-    "Day Planners/Day Planner-20230812.md",
-    "[(27.md",
+    "工科笔记/数学笔记/高等数学.md",
+    "阅读/阅读材料/嵌入式开发学习路线(知识点)梳理（含书籍推荐）.pdf",
+    "工科笔记/编程语言学习/c语言.md",
+    "工科笔记/编程语言学习/c++语言.md",
+    "工科笔记/编程语言学习/python.md",
+    "工科笔记/编程语言学习/Java.md",
+    "工科笔记/人工智能学习路线",
+    "工科笔记/嵌入式学习/底层开发/可运行系统/Linux内核.md",
+    "工科笔记/嵌入式学习/嵌入式学习.md",
+    "工科笔记/嵌入式学习/书籍资料推荐/芯片手册-datasheet/芯片手册-datasheet.md",
+    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式应用开发/嵌入式应用开发.md",
+    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式底层开发/嵌入式底层开发.md",
+    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式编程基础/嵌入式编程基础.md",
+    "工科笔记/嵌入式学习/书籍资料推荐/芯片手册-datasheet",
+    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式底层开发",
+    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式应用开发",
+    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式编程基础",
+    "工科笔记/嵌入式学习/书籍资料推荐",
+    "工科笔记/嵌入式学习/底层开发/Linux驱动开发/Linux驱动开发.md",
+    "工科笔记/嵌入式学习/底层开发/Linux内核编程/Linux内核编程.md",
+    "工科笔记/嵌入式学习/底层开发/Linux驱动开发",
+    "工科笔记/嵌入式学习/底层开发/可运行系统/可运行系统.md",
+    "工科笔记/嵌入式学习/底层开发/可运行系统/根系统文件.md",
+    "工科笔记/嵌入式学习/底层开发/Linux内核编程",
+    "工科笔记/嵌入式学习/底层开发/可运行系统/Bootloader.md",
+    "工科笔记/嵌入式学习/底层开发/可运行系统",
+    "工科笔记/嵌入式学习/应用层开发/内存管理-使用/内存管理-使用.md",
+    "工科笔记/嵌入式学习/linux系统/多任务编程.md",
+    "工科笔记/嵌入式学习/linux系统/Linux系统平台编译.md",
+    "工科笔记/嵌入式学习/linux系统/linux系统.md",
+    "工科笔记/嵌入式学习/应用层开发/未命名.md",
+    "工科笔记/嵌入式学习/典型平台/嵌入式操作系统/嵌入式操作系统.md",
+    "工科笔记/嵌入式学习/典型平台/嵌入式操作系统/内核态.md",
+    "工科笔记/嵌入式学习/典型平台/嵌入式操作系统/用户态.md",
+    "工科笔记/嵌入式学习/典型平台/嵌入式裸机/嵌入式裸机.md",
+    "学习视频.canvas",
+    "Pasted image 20230816183547.png",
     "attachment/Pasted image 20230812214930 1.png",
-    "读书/《挪威的森林》.md",
     "attachment/Pasted image 20230814100443.png",
     "attachment/Pasted image 20230814100359.png",
     "attachment/Pasted image 20230813232019.png",
     "attachment/Pasted image 20230812214930.png",
-    "阅读/阅读材料/呼啸山庄_[英]艾米莉·勃朗特；方平译_zhelper-search.epub",
-    "阅读/索引",
     "attachment/Pasted image 20230811011318.png",
     "未命名 1.canvas"
   ]

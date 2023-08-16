@@ -145,16 +145,3 @@ class Biology,Chemistry internal-link
 ## 白板使用
 - 接入视频
 - 做笔记
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,31 +1,47 @@
 {
   "main": {
-    "id": "5aa4fc72cf3f7e71",
+    "id": "8ab2113c1b8e3d70",
     "type": "split",
     "children": [
       {
-        "id": "ba1f89630b81c813",
+        "id": "c396a39e035e9264",
         "type": "tabs",
         "children": [
           {
-            "id": "bfab3b2a7876dcca",
+            "id": "3866d88adcd29c4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "8542aacd5cc0e872",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读/«飞鸟集».md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e05e2f5458781786",
+    "id": "34c7bb3382cbdf94",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c9ea85d1fad8fd0a",
+        "id": "c9efc60ea07a716d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +51,7 @@
         }
       },
       {
-        "id": "9d2c175b893f320b",
+        "id": "d1b9e6a6502ca9bf",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +66,7 @@
         }
       },
       {
-        "id": "b536658cfe689cad",
+        "id": "b1cbaae26472f8c4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,10 +77,18 @@
         }
       },
       {
-        "id": "bb718f0ad9dee339",
+        "id": "b0d9d55016a9b49a",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "df180f03434e75ff",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
           "state": {}
         }
       }
@@ -72,15 +96,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2cbc428d14a00249",
+    "id": "71e79c73b6f5df8a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "31c9ea57799195d0",
+        "id": "617c93fedd7ee775",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "阅读/«飞鸟集».md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -92,21 +117,32 @@
         }
       },
       {
-        "id": "2561cceaf84d569c",
+        "id": "8f23ca6dbbce26e7",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "阅读/«飞鸟集».md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "4f8cf8d56117a955",
+        "id": "5a2aa47abea25be6",
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "阅读/«飞鸟集».md"
+          }
+        }
+      },
+      {
+        "id": "13dff1933eb4ef4b",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
           "state": {}
         }
       }
@@ -124,39 +160,52 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bfab3b2a7876dcca",
+  "active": "8542aacd5cc0e872",
   "lastOpenFiles": [
-    "Obsidian学习笔记.md",
-    "狂人日记.md",
     "阅读/索引/书单索引.md",
-    "[(27.md",
-    "阅读/读书笔记/《呼啸山庄》.md",
-    "阅读/读书笔记/《挪威的森林》.md",
-    "Pasted image 20230814100359.png",
-    "Pasted image 20230814100443.png",
-    "Pasted image 20230813232019.png",
-    "Day Planners/Day Planner-20230814.md",
-    "阅读/索引",
-    "阅读/读书笔记",
-    "读书",
-    "模板",
-    "日记",
-    "attachment/Pasted image 20230812214930.png",
-    "收集箱/嵌入式学习.md",
-    "读书/书单索引.md",
-    "阅读/阅读材料",
-    "阅读",
-    "Day Planners/Day Planner-20230812.md",
-    "Day Planners",
-    "读书/《呼啸山庄》.md",
-    "未命名 1.canvas",
+    "工科笔记/编程语言学习/c语言.md",
+    "工科笔记/编程语言学习/c++语言.md",
+    "工科笔记/嵌入式学习.md",
+    "工科笔记/Stm32学习.md",
+    "工科笔记/模拟电子技术.md",
+    "Day Planners/Day Planner-20230815.md",
+    "Biology.md",
+    "阅读/作者/太宰治.md",
+    "阅读/作者/施耐庵.md",
+    "阅读/作者/余华.md",
+    "阅读/作者/吴承恩.md",
+    "阅读/读书笔记/«西游记».md",
+    "阅读/作者/罗贯中.md",
+    "阅读/作者/春上村树.md",
+    "阅读/读书笔记/«三国演义».md",
+    "阅读/读书笔记/«百年孤独».md",
+    "阅读/读书笔记/«认知觉醒».md",
+    "阅读/读书笔记/«活着».md",
+    "阅读/读书笔记/«忏悔录».md",
+    "阅读/读书笔记/«心安即是归处».md",
+    "阅读/读书笔记/«如何管理自己».md",
+    "阅读/读书笔记/«天才在左疯子在右».md",
+    "阅读/读书笔记/«哈利波特».md",
+    "阅读/读书笔记/«动物农场».md",
+    "阅读/读书笔记/«你当像鸟飞向你的山».md",
     "未命名.canvas",
-    "attachment/Pasted image 20230811011318.png",
-    "收集箱/未命名.md",
-    "收集箱/模拟电子技术.md",
-    "收集箱/Stm32学习.md",
-    "日记/2023-08-11.md",
-    "收集箱",
-    "attachment"
+    "阅读/阅读材料/呼啸山庄_勃朗特; 张玲; 张扬_zhelper-search.pdf",
+    "阅读/阅读材料/9. DataView查询.pdf",
+    "阅读/阅读材料/10. 公开课总结.pdf",
+    "阅读/阅读材料/github-roam.pdf",
+    "阅读/阅读材料/8. 搜索的技巧.pdf",
+    "阅读/阅读材料/3. 优雅的码字.pdf",
+    "阅读/阅读材料/4. Obsidian中的链接.pdf",
+    "阅读/阅读材料/7. Obsidian插件（下）.pdf",
+    "阅读/阅读材料/1. Obsidian简介.pdf",
+    "阅读/阅读材料/2. 使用Obsidian.pdf",
+    "attachment/Pasted image 20230814100443.png",
+    "attachment/Pasted image 20230813232019.png",
+    "attachment/Pasted image 20230812214930 1.png",
+    "attachment/Pasted image 20230814100359.png",
+    "Pasted image 20230812214930.png",
+    "attachment/Pasted image 20230812214930.png",
+    "未命名 1.canvas",
+    "attachment/Pasted image 20230811011318.png"
   ]
 }
