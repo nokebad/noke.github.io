@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"19bbfc1d19e26cc3","x":-560,"y":-620,"width":784,"height":566,"type":"link","url":"https://www.bilibili.com/video/BV1F7411a7iV?t=110.8"}
+		{"type":"link","url":"https://www.bilibili.com/video/BV1F7411a7iV?t=110.8","id":"19bbfc1d19e26cc3","x":-580,"y":-980,"width":784,"height":566}
 	],
 	"edges":[]
 }
