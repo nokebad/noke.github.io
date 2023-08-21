@@ -17,7 +17,7 @@
                 "file": "学习视频.canvas",
                 "viewState": {
                   "x": -168,
-                  "y": -610.1716621253406,
+                  "y": -746.7574931880109,
                   "zoom": -0.23257711502193046
                 }
               }
@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
+                "file": "工科笔记/数学笔记/线性代数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
+                "file": "工科笔记/数学笔记/线性代数.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
+                "file": "工科笔记/数学笔记/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md"
+                "file": "工科笔记/数学笔记/线性代数.md"
               }
             }
           }
@@ -206,8 +206,8 @@
   },
   "active": "6d7683d1c862a0b2",
   "lastOpenFiles": [
-    "学习视频.canvas",
     "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
+    "学习视频.canvas",
     "Pasted image 20230818083130.png",
     "工科笔记/嵌入式学习/底层开发/可运行系统/Linux内核.md",
     "工科笔记/嵌入式学习/硬件基础/模拟电子技术.md",
