@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "a4e8f1e6a591b71d",
-        "type": "tabs",
-        "dimension": 59.900166389351085,
-        "children": [
-          {
-            "id": "c78ea94bf7dc5844",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "学习视频.canvas",
-                "viewState": {
-                  "x": -168,
-                  "y": -746.7574931880109,
-                  "zoom": -0.23257711502193046
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "415dbb91dddd2160",
         "type": "tabs",
-        "dimension": 40.099833610648915,
         "children": [
           {
             "id": "6d7683d1c862a0b2",
@@ -36,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
+                "file": "工科笔记/数学笔记/线性代数.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
+                "file": "工科笔记/数学笔记/线性代数.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
+                "file": "工科笔记/数学笔记/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md"
+                "file": "工科笔记/数学笔记/线性代数.md"
               }
             }
           }
@@ -204,11 +181,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6d7683d1c862a0b2",
+  "active": "9efabd6d36c1e634",
   "lastOpenFiles": [
-    "工科笔记/数学笔记/线性代数.md",
+    "工科笔记/数学笔记/线性代数",
+    "未命名",
     "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
     "学习视频.canvas",
+    "工科笔记/数学笔记/线性代数.md",
     "Pasted image 20230818083130.png",
     "工科笔记/嵌入式学习/底层开发/可运行系统/Linux内核.md",
     "工科笔记/嵌入式学习/硬件基础/模拟电子技术.md",
@@ -236,7 +215,6 @@
     "工科笔记/嵌入式学习/底层开发/可运行系统/根系统文件.md",
     "工科笔记/嵌入式学习/底层开发/Linux内核编程",
     "工科笔记/嵌入式学习/底层开发/可运行系统/Bootloader.md",
-    "工科笔记/嵌入式学习/底层开发/可运行系统",
     "工科笔记/嵌入式学习/应用层开发/内存管理-使用/内存管理-使用.md",
     "工科笔记/嵌入式学习/linux系统/多任务编程.md",
     "工科笔记/嵌入式学习/linux系统/Linux系统平台编译.md",
