@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工科笔记/数学笔记/线性代数.md",
+                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工科笔记/数学笔记/线性代数.md",
+                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工科笔记/数学笔记/线性代数.md",
+                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工科笔记/数学笔记/线性代数.md"
+                "file": "工科笔记/嵌入式学习/嵌入式学习.md"
               }
             }
           }
@@ -183,12 +183,12 @@
   },
   "active": "6d7683d1c862a0b2",
   "lastOpenFiles": [
+    "工科笔记/数学笔记/线性代数.md",
     "Pasted image 20230829203247.png",
     "工科笔记/数学笔记/线性代数",
     "未命名",
     "工科笔记/嵌入式学习/硬件基础/模拟电子技术/电路原理.md",
     "学习视频.canvas",
-    "工科笔记/数学笔记/线性代数.md",
     "Pasted image 20230818083130.png",
     "工科笔记/嵌入式学习/底层开发/可运行系统/Linux内核.md",
     "工科笔记/嵌入式学习/硬件基础/模拟电子技术.md",
