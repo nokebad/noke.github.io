@@ -11,8 +11,13 @@
             "id": "6d7683d1c862a0b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "工科笔记/嵌入式学习/嵌入式学习.md"
+              }
             }
           }
         ],
