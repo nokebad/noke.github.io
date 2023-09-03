@@ -4,23 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "415dbb91dddd2160",
-        "type": "tabs",
+        "id": "9c8746f947f664e7",
+        "type": "split",
         "children": [
           {
-            "id": "6d7683d1c862a0b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "415dbb91dddd2160",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d7683d1c862a0b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "f59e383aae679c7d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "44036e5a8130c3dc",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#书籍",
+                "query": "数字",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
+                "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工科笔记/嵌入式学习/嵌入式学习.md",
+                "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工科笔记/嵌入式学习/嵌入式学习.md"
+                "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md"
               }
             }
           }
@@ -181,13 +202,14 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6d7683d1c862a0b2",
+  "active": "9efabd6d36c1e634",
   "lastOpenFiles": [
+    "工科笔记/嵌入式学习/嵌入式学习.md",
+    "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
     "阅读/读书笔记/《挪威的森林》.md",
     "阅读/索引/书单索引.md",
     "阅读/读书笔记/«天才在左，疯子在右».md",
     "模板/读书笔记模板.md",
-    "工科笔记/嵌入式学习/嵌入式学习.md",
     "工科笔记/数学笔记/线性代数.md",
     "Pasted image 20230829203247.png",
     "工科笔记/数学笔记/线性代数",
@@ -221,7 +243,6 @@
     "工科笔记/嵌入式学习/底层开发/可运行系统/Bootloader.md",
     "工科笔记/嵌入式学习/应用层开发/内存管理-使用/内存管理-使用.md",
     "工科笔记/嵌入式学习/linux系统/多任务编程.md",
-    "工科笔记/嵌入式学习/linux系统/Linux系统平台编译.md",
     "Pasted image 20230816183547.png",
     "attachment/Pasted image 20230812214930 1.png",
     "attachment/Pasted image 20230814100443.png",
