@@ -1,36 +1,68 @@
 {
   "main": {
-    "id": "5aa4fc72cf3f7e71",
+    "id": "8ab2113c1b8e3d70",
     "type": "split",
     "children": [
       {
-        "id": "c9f8cd32e29bfc05",
-        "type": "tabs",
+        "id": "62c79307e2e6bd4f",
+        "type": "split",
         "children": [
           {
-            "id": "80f2f0f253f09662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读/索引/书单索引.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "c396a39e035e9264",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3866d88adcd29c4e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "d485a8908fe7e72f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "226b0a8befd62adc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "15ec5e0f01ad749d",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e05e2f5458781786",
+    "id": "34c7bb3382cbdf94",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c9ea85d1fad8fd0a",
+        "id": "c9efc60ea07a716d",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +72,7 @@
         }
       },
       {
-        "id": "9d2c175b893f320b",
+        "id": "d1b9e6a6502ca9bf",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +87,7 @@
         }
       },
       {
-        "id": "b536658cfe689cad",
+        "id": "b1cbaae26472f8c4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,10 +98,18 @@
         }
       },
       {
-        "id": "bb718f0ad9dee339",
+        "id": "b0d9d55016a9b49a",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "df180f03434e75ff",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
           "state": {}
         }
       }
@@ -77,17 +117,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2cbc428d14a00249",
+    "id": "71e79c73b6f5df8a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "31c9ea57799195d0",
+        "id": "617c93fedd7ee775",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "阅读/索引/书单索引.md",
-            "collapseAll": true,
+            "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
+            "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -98,29 +138,29 @@
         }
       },
       {
-        "id": "2561cceaf84d569c",
+        "id": "8f23ca6dbbce26e7",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "阅读/索引/书单索引.md",
+            "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "4f8cf8d56117a955",
+        "id": "5a2aa47abea25be6",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "阅读/索引/书单索引.md"
+            "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md"
           }
         }
       },
       {
-        "id": "e70da20848ac9aa7",
+        "id": "13dff1933eb4ef4b",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -141,22 +181,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c9ea85d1fad8fd0a",
+  "active": "d485a8908fe7e72f",
   "lastOpenFiles": [
-    "工科笔记/嵌入式学习/底层开发/可运行系统/Bootloader.md",
-    "工科笔记/嵌入式学习/应用层开发/内存管理-使用/内存管理-使用.md",
-    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式编程基础/嵌入式编程基础.md",
-    "工科笔记/嵌入式学习/linux系统/Linux环境安装和搭建.md",
-    "工科笔记/嵌入式学习/典型平台/嵌入式裸机/协议-接口-总线等概念.md",
-    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式底层开发/嵌入式底层开发.md",
-    "工科笔记/嵌入式学习/书籍资料推荐/嵌入式应用开发/嵌入式应用开发.md",
-    "Day Planners/Day Planner-20230815.md",
-    "工科笔记/嵌入式学习/底层开发/Linux驱动开发/Linux驱动开发.md",
-    "工科笔记/嵌入式学习/硬件基础/常见器件通信方式-协议-接口-总线等原理.md",
-    "工科笔记/嵌入式学习/linux系统/linux平台的c-c++开发流程.md",
-    "工科笔记/嵌入式学习/底层开发/Linux内核编程/Linux内核编程.md",
-    "工科笔记/嵌入式学习/书籍资料推荐/芯片手册-datasheet/芯片手册-datasheet.md",
-    "工科笔记/嵌入式学习/计算机网络原理/DNS协议-HTTP协议-HTTPS协议.md",
+    "阅读/作者/乙一.md",
+    "阅读/作者/周岭.md",
+    "阅读/作者/刘润.md",
+    "阅读/作者/卢梭.md",
+    "学习视频.canvas",
+    "阅读/作者/柏拉图.md",
+    "阅读/作者/蒲松龄.md",
+    "阅读/作者/泰戈尔.md",
+    "阅读/作者/奥威尔.md",
+    "阅读/作者/刘慈欣.md",
+    "阅读/作者/季羡林.md",
+    "阅读/作者/中村恒子.md",
+    "阅读/作者/斯蒂芬.茨威格.md",
+    "阅读/作者/尤瓦尔.赫拉利.md",
+    "阅读/读书笔记/《小王子》.md",
+    "阅读/作者/古斯塔夫.勒宠.md",
+    "阅读/作者/塔拉.韦斯特弗.md",
+    "阅读/作者/加西亚.马尔克斯.md",
+    "工科笔记/嵌入式学习/嵌入式学习.md",
+    "工科笔记/编程语言学习/Java.md",
+    "阅读/读书笔记/《月亮与六便士》.md",
+    "工科笔记/编程语言学习/c语言/语句.md",
+    "阅读/作者/J.K.Rowling.md",
+    "工科笔记/编程语言学习/c语言/类.md",
+    "工科笔记/编程语言学习/c语言/模板.md",
+    "工科笔记/编程语言学习/c语言/继承.md",
+    "工科笔记/编程语言学习/c语言/指针.md",
+    "Pasted image 20230829203247.png",
+    "Pasted image 20230903190601.png",
+    "Pasted image 20230818083130.png",
+    "Pasted image 20230816183547.png",
     "工科笔记/嵌入式学习/典型平台/体系结构",
     "工科笔记/嵌入式学习/底层开发/可运行系统",
     "工科笔记/嵌入式学习/应用层开发/网络编程",
@@ -167,28 +224,13 @@
     "工科笔记/嵌入式学习/典型平台/嵌入式操作系统",
     "工科笔记/嵌入式学习/应用层开发/图形化界面编程",
     "工科笔记/嵌入式学习/应用层开发/内存管理-使用",
-    "阅读/«飞鸟集».md",
-    "阅读/读书笔记/«三体».md",
-    "阅读/读书笔记/«理想国».md",
-    "阅读/读书笔记/«山海经».md",
-    "阅读/读书笔记/«聊斋志异».md",
-    "阅读/读书笔记/«人类简史».md",
-    "阅读/读书笔记/«明朝那些事儿».md",
-    "阅读/读书笔记/«了不起的盖茨比».md",
-    "阅读/读书笔记/«夏天，烟火和我的尸体».md",
-    "阅读/索引/书单索引.md",
-    "阅读/作者/春上村树.md",
-    "Biology.md",
+    "未命名.canvas",
     "attachment/Pasted image 20230814100443.png",
-    "attachment/Pasted image 20230814100359.png",
     "attachment/Pasted image 20230813232019.png",
     "attachment/Pasted image 20230812214930 1.png",
+    "attachment/Pasted image 20230814100359.png",
+    "Pasted image 20230812214930.png",
     "attachment/Pasted image 20230812214930.png",
-    "Pasted image 20230814100359.png",
-    "Pasted image 20230814100443.png",
-    "Pasted image 20230813232019.png",
-    "未命名 1.canvas",
-    "未命名.canvas",
-    "attachment/Pasted image 20230811011318.png"
+    "未命名 1.canvas"
   ]
 }
