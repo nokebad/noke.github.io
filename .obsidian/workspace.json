@@ -4,46 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9c8746f947f664e7",
-        "type": "split",
+        "id": "415dbb91dddd2160",
+        "type": "tabs",
         "children": [
           {
-            "id": "415dbb91dddd2160",
-            "type": "tabs",
-            "dimension": 52.19907407407407,
-            "children": [
-              {
-                "id": "6d7683d1c862a0b2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "6d7683d1c862a0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工科笔记/嵌入式学习/硬件基础/电子技术基础.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "f59e383aae679c7d",
-            "type": "tabs",
-            "dimension": 47.800925925925924,
-            "children": [
-              {
-                "id": "44036e5a8130c3dc",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
+                "file": "工科笔记/嵌入式学习/硬件基础/电子技术基础.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
+                "file": "工科笔记/嵌入式学习/硬件基础/电子技术基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工科笔记/嵌入式学习/硬件基础/数字电子技术.md"
+                "file": "工科笔记/嵌入式学习/硬件基础/电子技术基础.md"
               }
             }
           }
@@ -206,12 +183,15 @@
   },
   "active": "6d7683d1c862a0b2",
   "lastOpenFiles": [
+    "工科笔记/嵌入式学习/硬件基础/未命名思维导图.md",
+    "工科笔记/嵌入式学习/硬件基础/电子技术基础.md",
+    "工科笔记/嵌入式学习/硬件基础/模拟电子技术.md",
+    "工科笔记/嵌入式学习/嵌入式学习.md",
+    "未命名思维导图.md",
     "工科笔记/大学物理/大学物理二.md",
-    "工科笔记/嵌入式学习/硬件基础/数字电子技术.md",
     "工科笔记/大学物理",
     "工科笔记/未命名.md",
     "Pasted image 20230903190601.png",
-    "工科笔记/嵌入式学习/嵌入式学习.md",
     "阅读/读书笔记/《挪威的森林》.md",
     "阅读/索引/书单索引.md",
     "阅读/读书笔记/«天才在左，疯子在右».md",
@@ -224,7 +204,6 @@
     "学习视频.canvas",
     "Pasted image 20230818083130.png",
     "工科笔记/嵌入式学习/底层开发/可运行系统/Linux内核.md",
-    "工科笔记/嵌入式学习/硬件基础/模拟电子技术.md",
     "工科笔记/数学笔记/高等数学.md",
     "阅读/阅读材料/嵌入式开发学习路线(知识点)梳理（含书籍推荐）.pdf",
     "工科笔记/编程语言学习/c语言.md",
@@ -244,8 +223,6 @@
     "工科笔记/嵌入式学习/底层开发/Linux驱动开发/Linux驱动开发.md",
     "工科笔记/嵌入式学习/底层开发/Linux内核编程/Linux内核编程.md",
     "工科笔记/嵌入式学习/底层开发/可运行系统/可运行系统.md",
-    "工科笔记/嵌入式学习/底层开发/可运行系统/根系统文件.md",
-    "工科笔记/嵌入式学习/底层开发/可运行系统/Bootloader.md",
     "Pasted image 20230816183547.png",
     "attachment/Pasted image 20230812214930 1.png",
     "attachment/Pasted image 20230814100443.png",
